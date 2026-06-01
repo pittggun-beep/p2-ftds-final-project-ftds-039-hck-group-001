@@ -1,4 +1,4 @@
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/d5726028-c080-44ba-9d5c-d63824711fec" />
+<img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/d5726028-c080-44ba-9d5c-d63824711fec" />
 
 
 📌 Tentang Proyek  
