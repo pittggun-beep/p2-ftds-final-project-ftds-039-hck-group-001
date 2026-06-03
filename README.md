@@ -67,9 +67,9 @@ FTDS Batch 039 — Hacktiv8 | Group 001
 
 Nama | Peran
 --- | ---
-Aulia Putri | Data Engineer — ETL Pipeline & Airflow
-Yosia Oscar Stephen Marpaung | Data Engineer — Deployment & Data Validation
-Yehezkiel Erickson Rivaldo P | Data Scientist — Risk Profiling & Recommendation System
-Gugun Gunawan | Data Analyst — EDA, Business Insight, & Dashboard
+Aulia Putri | Data Scientist 
+Yosia Oscar Stephen Marpaung | Data Scientist  
+Yehezkiel Erickson Rivaldo P | Data Analyst 
+Gugun Gunawan | Data Engineer
 
 
