@@ -69,7 +69,7 @@ Nama | Peran
 --- | ---
 Aulia Putri | Data Scientist 
 Yosia Oscar Stephen Marpaung | Data Scientist  
-Yehezkiel Erickson Rivaldo P | Data Analyst 
+Yehezkiel Erickson Rivaldo P | Data Analyst / Data Scientist
 Gugun Gunawan | Data Engineer
 
 
